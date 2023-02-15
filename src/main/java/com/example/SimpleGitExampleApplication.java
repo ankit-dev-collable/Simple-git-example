@@ -8,8 +8,13 @@ public class SimpleGitExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleGitExampleApplication.class, args);
+                        System.out.println("code changes time 12-02-2023 at 15:50");
 
+<<<<<<< HEAD
         System.out.println("code changes time 12-02-2023 at 15:49");
+=======
+
+>>>>>>> branch 'main' of https://github.com/ankit-dev-collable/Simple-git-example.git
 
 	}
 

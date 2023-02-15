@@ -8,8 +8,9 @@ public class SimpleGitExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleGitExampleApplication.class, args);
-				System.out.println("changes in line number 11 in github main branch");
+		System.out.println("changes in line number 11 in github main branch");
 
+		System.out.println("changes in line number 11");
 	}
 
 }
